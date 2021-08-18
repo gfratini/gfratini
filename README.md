@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Me like code
+
+42 Roma luiss stats:
+
+![gfratini 42 stats](https://badge42.herokuapp.com/api/stats/gfratini)
